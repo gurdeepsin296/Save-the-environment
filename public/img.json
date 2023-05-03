@@ -1,0 +1,60 @@
+[
+    {
+        "id":1,
+        "img":"Img1.png" , 
+        "name": "Leonard John Davies", 
+        "position": "Cofounder, CEO"
+    },
+    {
+        "id":2,
+        "img":"Img2.png"  , 
+        "name": "Francis Weber", 
+        "position": "Vice Chairman"
+    },
+    {
+        "id":3,
+        "img":"Img3.png"  , 
+        "name": "Kyla Obrien", 
+        "position": "Head of Authority"
+    },
+    {
+        "id":4,
+        "img":"Img4.png"  , 
+        "name": "Adrian Dixon", 
+        "position": "Support Executive"
+    },
+    {
+        "id":5,
+        "img":"Img5.png"  , 
+        "name": "Freddy Busby", 
+        "position": "Project Manager"
+    },
+    {
+        "id":6,
+        "img":"Img6.png"  , 
+        "name": "Dale Banks", 
+        "position": "Accountatnt, Finance"
+    },
+
+    {
+        "id":7,
+        "img":"Img7.png"  , 
+        "name": "Miriam Middleton", 
+        "position": "Cofounder, CEO"
+    } ,
+    {
+        "id":8,
+        "img":"Img8.png"  , 
+        "name": "Ellen Walton", 
+        "position": "Vice Chairman"
+    },
+    {
+        "id":9,
+        "img":"Img4.png"  , 
+        "name": "Ellen Walton", 
+        "position": "Vice Chairman"
+    }
+]
+    
+
+

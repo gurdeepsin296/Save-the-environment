@@ -1,0 +1,17 @@
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0px 10px;
+  background: #ffffff;
+}
+
+.navigation_bar a {
+  text-decoration: none;
+  padding: 5px 10px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  color: #0b0706;
+  font-size: 16px;
+}
